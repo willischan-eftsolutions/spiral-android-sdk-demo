@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Integrated Payment Solution Demo</string>
+
+    <string-array name="name_payment_method">
+        <item>Alipay HK</item>
+        <item>Alipay CN</item>
+        <item>WeChat Pay</item>
+        <item>Mastercard</item>
+        <item>FPS</item>
+        <item>Octopus</item>
+    </string-array>
+</resources>
